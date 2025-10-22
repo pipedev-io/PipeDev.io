@@ -1,0 +1,12 @@
+site_name: 'PipeDev'
+site_url: https://pipedev.io
+theme:
+  name: simple-blog
+
+nav:
+  - Home: index.md
+  - About PipeDev: about.md
+  - Learn:
+      - "Start Here": learn/index.md
+
+
